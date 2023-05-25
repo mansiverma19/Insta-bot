@@ -3,6 +3,7 @@ Project was made in Jupyter Notebook using web scraping <br>
 Requirements-<br>
   Selenium-!pip install selenium<br>
   Pandas-!pip install pandas<br>
+  DateTime- !pip install datetime<br>
   ChromeDriver-Chromedriver is produced by the team behind Chrome and allows Chrome to be automatically controlled by Selenium.<br>
 
 # Bot
@@ -18,10 +19,22 @@ Here are some of the benefits of using an Instagram bot:<br>
 
 Login()- User have to provide the insta handle and password then he or she will be automatically logged in.<br>
 Search()- Insta accounts related to the name given by the user will be searched.<br>
+search_open_profile()- The profile of the account will be opened.<br>
 Get_list()- Gives list of insta handles.<br> 
 Follow()- The given insta account will be followed.<br>
 Unfollow()- The given insta account will be unfollowed.<br>
 Like()- Latest post will be liked automatically.<br>
 Unlike()- Latest post will be unliked automatically.<br>
+my_follower()- Will give the list of users followers.<br>
+my_following()- Will give the list of account user is following.<br>
+total_followers()- Will gie the total number of followers of any account.<br>
+story()- Opens the story of particular account.<br>
+hashtags()- Finds the hashtags used by the users in n number of posts.<br>
+past_post()- Posts from the last n days will get automatically liked or unliked.<br>
+             Sub functions used are:
+             1)find_month()
+             2)date_of_post()
+             3)leap_year()
+             4)date_after_calc()
 
 
