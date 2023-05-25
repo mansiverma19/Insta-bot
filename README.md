@@ -1,10 +1,10 @@
 # Insta-bot
 Project was made in Jupyter Notebook using web scraping <br>
 Requirements-<br>
-  Selenium-!pip install selenium<br>
-  Pandas-!pip install pandas<br>
-  DateTime- !pip install datetime<br>
-  ChromeDriver-Chromedriver is produced by the team behind Chrome and allows Chrome to be automatically controlled by Selenium.<br>
+ <hr> Selenium-!pip install selenium<br>
+ <hr> Pandas-!pip install pandas<br>
+ <hr> DateTime- !pip install datetime<br>
+ <hr> ChromeDriver-Chromedriver is produced by the team behind Chrome and allows Chrome to be automatically controlled by Selenium.<br>
 
 # Bot
 An Instagram bot is a collection of various functions that automates tasks on Instagram. Bots can be used to like, comment, follow, and unfollow other users, as well as post new content.<br>
@@ -31,10 +31,10 @@ total_followers()- Will gie the total number of followers of any account.<br>
 story()- Opens the story of particular account.<br>
 hashtags()- Finds the hashtags used by the users in n number of posts.<br>
 past_post()- Posts from the last n days will get automatically liked or unliked.<br>
-             Sub functions used are:
-             1)find_month()
-             2)date_of_post()
-             3)leap_year()
-             4)date_after_calc()
+<hr>            Sub functions used are:
+<hr>             1)find_month()
+<hr>             2)date_of_post()
+<hr>             3)leap_year()
+<hr>             4)date_after_calc()
 
 
