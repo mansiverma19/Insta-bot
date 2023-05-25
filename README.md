@@ -31,10 +31,10 @@ total_followers()- Will gie the total number of followers of any account.<br>
 story()- Opens the story of particular account.<br>
 hashtags()- Finds the hashtags used by the users in n number of posts.<br>
 past_post()- Posts from the last n days will get automatically liked or unliked.<br>
-<hr>            Sub functions used are:
-<hr>             1)find_month()
-<hr>             2)date_of_post()
-<hr>             3)leap_year()
-<hr>             4)date_after_calc()
+<br>            Sub functions used are:
+<br>             1)find_month()
+<br>             2)date_of_post()
+<br>             3)leap_year()
+<br>             4)date_after_calc()
 
 
